@@ -5,7 +5,7 @@ Proyecto plotly Dash / Dash plotly project
 
 For live update see:
 
-andresusc2020.pythonanywhere.com
+https://andresusc2020.pythonanywhere.com
 
 This project is about an app that integrates Dash in treatment of various datasets.
 
