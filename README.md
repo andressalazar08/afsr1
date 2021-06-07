@@ -1,9 +1,11 @@
 # afsr1
 Proyecto plotly Dash / Dash plotly project
 
+![descarga](https://user-images.githubusercontent.com/56358504/121040174-51107200-c777-11eb-9fbd-3da99a3abe66.png)
+
+
 This project is about an app that integrates Dash in treatment of various datasets.
 
 
 Este proyecto busca mostrar la utilización de Dash para tratar datos de distintas fuentes
 
-![descarga](https://user-images.githubusercontent.com/56358504/121040174-51107200-c777-11eb-9fbd-3da99a3abe66.png)
